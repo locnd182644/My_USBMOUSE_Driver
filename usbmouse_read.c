@@ -247,7 +247,6 @@ static ssize_t Mouse_read(struct file *filp, char __user *buffer, size_t length,
     {
         buff_r[i] = *(data + i) + 48;
     }
-
     __copy_to_user(buffer, buff_r, sizeof(buff_r));
     return sizeof(buff_r);
 }
