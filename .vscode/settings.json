@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "device.h": "c",
+        "fs.h": "c",
+        "slab.h": "c",
+        "uaccess.h": "c",
+        "cdev.h": "c",
+        "overflow.h": "c",
+        "gfp.h": "c",
+        "mmdebug.h": "c",
+        "bug.h": "c",
+        "compiler.h": "c",
+        "topology.h": "c",
+        "typeinfo": "cpp",
+        "usb.h": "c",
+        "kernel.h": "c",
+        "types.h": "c",
+        "cstdio": "c",
+        "limits": "c",
+        "type_traits": "c",
+        "input.h": "c",
+        "file.h": "c",
+        "delay.h": "c"
+    }
+}
